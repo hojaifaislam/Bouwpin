@@ -1,0 +1,13 @@
+<svg id="mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="27" viewBox="0 0 38 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="38" height="27" fill="#501dff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_30" data-name="Group 30" clip-path="url(#clip-path)">
+    <path id="Path_29" data-name="Path 29" d="M32.87,0H4.7A4.7,4.7,0,0,0,0,4.7V22.3A4.7,4.7,0,0,0,4.7,27H32.87a4.7,4.7,0,0,0,4.7-4.7V4.7A4.7,4.7,0,0,0,32.87,0m2.348,22.3a2.35,2.35,0,0,1-2.348,2.348H4.7A2.35,2.35,0,0,1,2.348,22.3V4.7A2.35,2.35,0,0,1,4.7,2.348H32.87A2.35,2.35,0,0,1,35.217,4.7Z" fill="#501dff"/>
+    <path id="Path_30" data-name="Path 30" d="M31.909,5.431a1.174,1.174,0,0,0-1.652-.166l-12.17,9.957L5.917,5.265A1.174,1.174,0,0,0,4.431,7.082L17.344,17.648a1.173,1.173,0,0,0,1.486,0L31.743,7.082a1.173,1.173,0,0,0,.166-1.652" transform="translate(0.696 0.87)" fill="#501dff"/>
+    <path id="Path_31" data-name="Path 31" d="M24,13.344A1.174,1.174,0,1,0,22.344,15l4.7,4.7a1.174,1.174,0,0,0,1.66-1.66Z" transform="translate(3.826 2.261)" fill="#501dff"/>
+    <path id="Path_32" data-name="Path 32" d="M9.04,13.344l-4.7,4.7A1.174,1.174,0,1,0,6,19.7L10.7,15a1.174,1.174,0,0,0-1.66-1.66" transform="translate(0.696 2.261)" fill="#501dff"/>
+  </g>
+</svg>
